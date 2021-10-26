@@ -1,6 +1,11 @@
 body{
     background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
 }
+p{
+    font-size:large;
+    color: white;
+    
+}
 .button{
     display: flex;
     margin-top: 5%;
